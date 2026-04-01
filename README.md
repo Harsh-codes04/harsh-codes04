@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh
 
-<!--
-**Harsh-codes04/harsh-codes04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Full Stack Developer (PHP, MySQL, React)  
+🚀 Passionate about building real-world web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- 💡 Languages: PHP, JavaScript, C++
+- 🌐 Frontend: HTML, CSS, React
+- 🛢 Backend: PHP
+- 🗄 Database: MySQL
+- ⚙ Tools: Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-commerce Website (H&M Fashion Point)
+- User Login & Registration
+- Add to Cart & Checkout
+- Admin Dashboard
+
+### 🔐 Authentication System
+- Secure login/signup
+- Password validation
+
+### 🌐 Portfolio Website
+- Personal portfolio with projects showcase
+
+---
+
+## 📈 GitHub Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: harshchendake13@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-chendake-005859383?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+## 🎯 Goal
+To become a Software Engineer and build impactful applications 💻
