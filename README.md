@@ -14,6 +14,10 @@
 ---
 
 ## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,mysql,git,github,vscode" />
+</p>
+
 
 ### 💡 Languages
 - PHP
@@ -60,9 +64,10 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshcodes-04&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-codes04&show_icons=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-codes04" />
 </p>
 
 ---
@@ -82,9 +87,14 @@
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🎯 Career Goal
 To grow as a Software Developer by continuously learning, improving, and contributing to real-world applications.
 
 ---
-
 <p align="center">📈 Learning | Building | Improving</p>
