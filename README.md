@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritumali-ritz&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-codes04&show_icons=true&theme=default" />
 </p>
 
 ---
