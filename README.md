@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Chendake</h1>
-<h3 align="center">BCA Student | Aspiring Full Stack Developer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=BCA+Student;Aspiring+Full+Stack+Developer;Learning+%7C+Building+%7C+Improving&center=true&width=500&height=50">
+</h3>
 
 ---
 
