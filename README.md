@@ -4,24 +4,21 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BCA Student passionate about software development  
-- 💻 Skilled in building full stack web applications  
-- 🚀 Focused on real-world projects and problem solving  
-- 📍 India  
+- 🎓 BCA Student with strong interest in software development  
+- 💻 Currently learning and building full stack web applications  
+- 📈 Improving skills in PHP, MySQL, Python, and React  
+- 🚀 Focused on continuous learning and real-world projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
-
-
 ### 💡 Languages
-- C++ (Expert)
-- PHP(Intermediate)
-- Python(Intermediate)
-- JavaScript(Expert)
-- Mysql(Expert)
-- Python(Learning)
+- PHP
+- JavaScript
+- Python
+- C++
+- MYSQL
 
 ### 🌐 Frontend
 - HTML
@@ -34,59 +31,58 @@
 ### 🗄 Database
 - MySQL
 
-### ⚙ Tools
+### ⚙ Tools & Technologies
 - Git
 - GitHub
 - VS Code
+- XAMPP / Localhost 
 
 ---
 
 ## 🚀 Projects
 
 ### 🛒 E-commerce Website (H&M Fashion Point)
-- Developed full-featured e-commerce platform  
-- User authentication & authorization  
-- Add to cart & checkout system  
-- Admin dashboard for product management
-- Hosted for trial check out (https://hmfashionpoint.wuaze.com/) 
+- Developed a functional e-commerce platform using PHP & MySQL  
+- Features: User Authentication, Add to Cart, Admin Dashboard  
+- Improved UI and performance for better user experience  
+- 🔗 Live Demo: https://hmfashionpoint.wuaze.com/
 
 ### 🔐 Authentication System
-- Secure login and registration system  
-- Form validation and session handling  
+- Implemented secure login & registration system  
+- Applied validation and session management  
 
 ### 🌐 Portfolio Website
-- Personal portfolio showcasing projects and skills  
+- Designed personal portfolio to showcase projects  
+- Continuously improving UI and responsiveness  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-codes04&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshcodes-04&show_icons=true" />
 </p>
 
 ---
 
+## 📚 Currently Learning
+- React (Advanced Concepts)
+- Python
+- Backend Optimization  
+- Clean Code Practices  
+- Git & Version Control  
+
+---
+
 ## 📫 Contact Me
-
-- 📧 Email: harshchendake143@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/harsh-chendake-005859383?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
----
-
-## 🎯 Career Objective
-
-To secure a challenging role as a Software Developer where I can apply my skills, contribute to real-world projects, and continuously grow as a professional.
+- 📧 Email: harshchendake143gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/harsh-chendake-005859383 
 
 ---
 
-## ⚡ Strengths
-
-- Problem Solving  
-- Quick Learner  
-- Team Player  
-- Consistent & Dedicated  
+## 🎯 Career Goal
+To grow as a Software Developer by continuously learning, improving, and contributing to real-world applications.
 
 ---
 
-<p align="center">⭐ Always learning | Always building</p>
+<p align="center">📈 Learning | Building | Improving</p>
