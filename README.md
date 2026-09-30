@@ -51,7 +51,7 @@
 - Developed a functional e-commerce platform using PHP & MySQL  
 - Features: User Authentication, Add to Cart, Admin Dashboard  
 - Improved UI and performance for better user experience  
-- 🔗 Live Demo: https://hmfashionpoint.wuaze.com/
+- 🔗 Live Demo: https://hm-fashionpoint.infinityfree.io/index.php
 
 ### 🔐 Authentication System
 - Implemented secure login & registration system  
